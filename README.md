@@ -40,5 +40,5 @@ If drone's movements are off, you may need to calibrate it. Download the app cal
 
 To run bebop using `pyparrot` interface on a laptop that has not been set up with it, you can run the following command:
 
-`pip install bebop`
+`pip install pyparrot`
 
