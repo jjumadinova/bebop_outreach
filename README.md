@@ -15,7 +15,7 @@ Drones can be dangerous and cause injury! Additionally, Bebop drones are notorio
 
 ## Learning
 
-To learn about `pyparrot` interface please read the [`pyparrot` documentation](https://pyparrot.readthedocs.io/en/latest/bebopcommands.html). To learn more about autonomous drones please read the article titled [The Future of Flight: AI in the Cockpit](https://www.wsj.com/articles/the-future-of-flight-ai-in-the-cockpit-1542018600).
+To learn about `pyparrot` interface please read the [`pyparrot` documentation](https://pyparrot.readthedocs.io/en/latest/bebopcommands.html). 
 
 ## Instructions
 
