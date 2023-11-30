@@ -36,5 +36,9 @@ You can use `move_relative` method to fly the drone a relative number of meters 
 
 If drone's movements are off, you may need to calibrate it. Download the app called "FreeFlight Pro" and perform the calibrations (roll, pitch, yaw). Now, without flying it, ensure that you are able to connect your drone (wifi works) and that you can see the camera's input on the app.
 
+### Installations
 
+To run bebop using `pyparrot` interface on a laptop that has not been set up with it, you can run the following command:
+
+`pip install bebop`
 
