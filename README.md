@@ -42,4 +42,4 @@ To run bebop using `pyparrot` interface on a laptop that has not been set up wit
 
 `pip install pyparrot`
 
-`pip install zeroconf`
+`pip install zeroconf==0.24.4`
